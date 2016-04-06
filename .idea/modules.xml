@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HUAWEI/HUAWEI.iml" filepath="$PROJECT_DIR$/HUAWEI/HUAWEI.iml" />
       <module fileurl="file://$PROJECT_DIR$/HttpClientApplication.iml" filepath="$PROJECT_DIR$/HttpClientApplication.iml" />
     </modules>
   </component>

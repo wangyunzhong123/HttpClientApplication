@@ -39,5 +39,14 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Hello World!");
+        int a[][] = new int[600][600];
+        int count= 0;
+        for(int i=0;i<600;i++)
+            for(int j=0;j<600;j++){
+                System.out.println(count+" "+i+"."+j+" "+a[i][j]);
+                count++;
+                if(count ==359999)
+                    System.out.println(a[i][j]);
+            }
     }
 }
